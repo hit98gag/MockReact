@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MockReact/static/css/main.c27fe7cd.css",
+    "main.js": "/MockReact/static/js/main.cd8ed78e.js",
+    "index.html": "/MockReact/index.html",
+    "main.c27fe7cd.css.map": "/MockReact/static/css/main.c27fe7cd.css.map",
+    "main.cd8ed78e.js.map": "/MockReact/static/js/main.cd8ed78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27fe7cd.css",
+    "static/js/main.cd8ed78e.js"
+  ]
+}
