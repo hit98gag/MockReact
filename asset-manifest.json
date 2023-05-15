@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MockReact/static/css/main.c27fe7cd.css",
-    "main.js": "/MockReact/static/js/main.cd8ed78e.js",
+    "main.css": "/MockReact/static/css/main.a03dd765.css",
+    "main.js": "/MockReact/static/js/main.5dc06dbc.js",
     "index.html": "/MockReact/index.html",
-    "main.c27fe7cd.css.map": "/MockReact/static/css/main.c27fe7cd.css.map",
-    "main.cd8ed78e.js.map": "/MockReact/static/js/main.cd8ed78e.js.map"
+    "main.a03dd765.css.map": "/MockReact/static/css/main.a03dd765.css.map",
+    "main.5dc06dbc.js.map": "/MockReact/static/js/main.5dc06dbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c27fe7cd.css",
-    "static/js/main.cd8ed78e.js"
+    "static/css/main.a03dd765.css",
+    "static/js/main.5dc06dbc.js"
   ]
 }
