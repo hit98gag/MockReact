@@ -4,8 +4,8 @@ import Testimonial from './Testimonial'
 const Component2 = () => {
   return (
     <>
-     <div>
-      <h2>Thousands of Lives changed </h2>
+     <div className='upperDiv'>
+      <h2>Thousands of Lives changed </h2> <br/>
       <p> Hear from once who have been on this journey already </p>
     </div>
 

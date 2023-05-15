@@ -9,6 +9,13 @@
   align-items: center;
 }
 
+.upperDiv{
+  background-color: #0f1131;
+  color: white;
+  height: 5rem;
+  padding-top: 20px;
+}
+
 .left {
   /* border: 2px solid red; */
   height: 70%;  

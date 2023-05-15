@@ -14,7 +14,7 @@ const Testimonial = () => {
         {
             image : "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
 
-          name: "Jane Smith",
+          name:"David Kim",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -31,7 +31,7 @@ const Testimonial = () => {
         {
             image : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG9tbWV8ZW58MHx8MHx8&w=1000&q=80",
 
-          name: "Jane Smith",
+          name: "Maria Garcia",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -39,7 +39,7 @@ const Testimonial = () => {
         {
             image : "https://media.istockphoto.com/id/820577506/photo/smiling-man-over-urban-background.jpg?s=612x612&w=0&k=20&c=v202WM4KqTruTK3nQftWbONeASHTIRyxxDyfvcEHV4c=",
 
-          name: "Jane Smith",
+          name: "Michael Nguyen",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -47,7 +47,7 @@ const Testimonial = () => {
         {
             image : "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
 
-          name: "Jane Smith",
+          name: "Samantha Lee",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -56,7 +56,7 @@ const Testimonial = () => {
         {
             image : "https://wpdaddy.com/wp-content/uploads/2020/11/thispersondoesnotexist.jpg",
 
-          name: "Jane Smith",
+          name: "Robert Davis",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -64,7 +64,7 @@ const Testimonial = () => {
         {
             image : "https://cdn.youpic.com/huge/1416143_3ogqbsrvmm1khn4ehg9m5ucmtm_103510.jpg",
 
-          name: "Jane Smith",
+          name:  "Emily Green",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -72,7 +72,7 @@ const Testimonial = () => {
         {
             image : "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
 
-          name: "Jane Smith",
+          name:  "David Lee",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -80,7 +80,7 @@ const Testimonial = () => {
         {
             image : "https://images.unsplash.com/photo-1626470449066-96e0ba12ccf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&w=1000&q=80",
 
-          name: "Jane Smith",
+          name: "Avery Young",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -88,7 +88,7 @@ const Testimonial = () => {
         {
             image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqGopT21-Se8CfyzkF6uHhV77biVNXiGVsA&usqp=CAU",
 
-          name: "Jane Smith",
+          name: "Anthony Davis",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
@@ -96,7 +96,7 @@ const Testimonial = () => {
         {
             image : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDz_5YHVSNS7J_eJ7Hr_kxqEzjE6Xlzdr--A&usqp=CAU ",
 
-          name: "Jane Smith",
+          name: "Olivia Patel",
           jobTitle: "Marketing Manager",
           company: "XYZ Corp.",
           testimonialText: "Sed ornare felis mauris, ut pellentesque ipsum tempor vitae. tae ultrices sapien consequat sit amet."
